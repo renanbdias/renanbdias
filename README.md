@@ -6,7 +6,7 @@ I've learned how to program through college which I'm still finishing as a Softw
 I enjoy learning new things and getting to know new and cool techniques.
 Nowadays, I like to spend my free time working on my pet projects and writing for raywenderlich.com.
 
-Currently, I'm an iOS developer at Invillia/PagSeguro.
+Currently, I'm an iOS developer at XP Inc.
 
 - 🔭 I’m currently working on a few pet projects as well as my writing skills.📝✨
 - 🌱 I’m currently learning SwiftUI. I really like learning about new and amazing APIs. SwiftUI is the latest UI framework from Apple and much like UIKit, it's awesome.
