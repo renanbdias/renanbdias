@@ -2,9 +2,9 @@
 
 My name is Renan, and I'm an iOS and RoR developer.
 
-I've learned how to program through college which I'm still finishing as a Software Engineer major.
+I've learned how to program in college where I graduated with a Bachelor's degree in Software Engineering.
 I enjoy learning new things and getting to know new and cool techniques.
-Nowadays, I like to spend my free time working on my pet projects and writing for raywenderlich.com.
+Nowadays, I like to spend my free time working on pet projects and writing for raywenderlich.com.
 
 Currently, I'm an iOS developer at XP Inc.
 
